@@ -17,45 +17,7 @@ The program:
 - Enter marks for each subject.
 
 ## Example Output
-======= Student Grade Calculator =======
-
-Enter the number of subjects = 4
-
-Enter the name of subject No.1 = Maths
-
-Enter the Maths mark = 90
-
-Enter the name of subject No.2 = CS
-
-Enter the CS mark = 88
-
-Enter the name of subject No.3 = IS
-
-Enter the IS mark = 94
-
-Enter the name of subject No.4 = IT    
-
-Enter the IT mark = 96
-
-*************************************************
-
-========= Your Marks =========
-
-Maths = 90
-
-CS = 88
-
-IS = 94
-
-IT = 96
-
-
-Total Marks : 368
-
-Percentage : 92%
-
-Grade : A
-
+<img width="1030" height="960" alt="Output" src="https://github.com/user-attachments/assets/b6086cbb-ed00-4a45-988b-e23f4b2b8d3f" />
 
 ## Technologies
 - C++
