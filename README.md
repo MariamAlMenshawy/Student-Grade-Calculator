@@ -23,7 +23,7 @@ The program:
 - C++
 - Visual Studio
 
-## Author
-Created by [Maryam Al Menshawy]
+## Created By
+[Maryam Al Menshawy]
 
 
