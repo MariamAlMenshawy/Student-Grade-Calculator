@@ -33,12 +33,14 @@ Enter the name of subject No.3 = IS
 
 Enter the IS mark = 94
 
-Enter the name of subject No.4 = IT
+Enter the name of subject No.4 = IT    
+
 Enter the IT mark = 96
 
 *************************************************
 
 ========= Your Marks =========
+
 Maths = 90
 
 CS = 88
