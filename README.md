@@ -17,7 +17,8 @@ The program:
 - Enter marks for each subject.
 
 ## Example Output
-<img width="340" height="320" alt="Output" src="https://github.com/user-attachments/assets/b6086cbb-ed00-4a45-988b-e23f4b2b8d3f" />
+<img width="295" height="350" alt="Project Output" src="https://github.com/user-attachments/assets/6b823f7d-5229-43a3-a7f5-c9ed758a75d1" />
+
 
 ## Technologies
 - C++
