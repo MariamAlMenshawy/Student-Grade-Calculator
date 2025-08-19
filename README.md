@@ -12,9 +12,9 @@ The program:
     - F (Below 60)
 
 ## How to Run
-Open the project in visual studio or any C++ IDE.
-Build and run the program.
-Enter marks for each subject.
+- Open the project in visual studio or any C++ IDE.
+- Build and run the program.
+- Enter marks for each subject.
 
 ## Example Output
 ======= Student Grade Calculator =======
@@ -43,8 +43,8 @@ Grade : A
 
 
 ## Technologies
-C++
-Visual Studio
+- C++
+- Visual Studio
 
 ## Author
 Created by [Maryam Al Menshawy]
