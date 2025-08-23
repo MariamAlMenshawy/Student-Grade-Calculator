@@ -19,10 +19,9 @@ The program:
 ## Example Output
 <img width="275" height="322" alt="OUTPUT" src="https://github.com/user-attachments/assets/4ee48204-6b93-4c99-9a69-7952c7758796" />
 
-
 ## Technologies
-- C++
-- Visual Studio
+- **Language:** C++
+- **IDE:** Visual Studio
 
 ## Created By
 [Maryam Al Menshawy](https://github.com/MariamAlMenshawy)
